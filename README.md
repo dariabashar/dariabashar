@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Darya!
 
-<!--
-**dariabashar/dariabashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year IT student at KBTU (graduating 2027). I build data pipelines, APIs and AI tools in Python, SQL and Go.
 
-Here are some ideas to get you started:
+Right now I work as an AI engineer at Circle Creative Buro: a multi-agent system, fine-tuning the company's own model, and tools that automate hiring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:d.bashar@inbox.com">
+    <img src="https://img.shields.io/badge/Email-d.bashar@inbox.com-4B5563?style=for-the-badge" alt="Email"/>
+  </a>
+</p>
+
+## Projects
+
+- **[telecom-config-etl](https://github.com/dariabashar/telecom-config-etl)** - ETL pipeline that loads equipment data from CSV, Excel, JSON and XML into PostgreSQL with full change history, data validation, a REST API and an Airflow DAG. Python, PostgreSQL, FastAPI, Docker.
+- **[quickslot](https://github.com/dariabashar/quickslot)** - online booking service with JWT and roles, SQL migrations and Kafka-based notifications. Go, MySQL, Kafka, Docker.
+- **[glowguide](https://github.com/dariabashar/glowguide)** - recommendation backend with Redis caching. FastAPI, PostgreSQL, Redis.
+
+## Tech
+
+**Languages:** Python, SQL, Go
+**Data:** PostgreSQL, MySQL, ETL, Kafka, Redis, Airflow
+**Tools:** Docker, Git, Linux, GitLab CI/CD
